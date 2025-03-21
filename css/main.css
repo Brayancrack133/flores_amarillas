@@ -56,7 +56,7 @@ body {
   left: 50%; /* Centra horizontalmente */
   transform: translateX(-50%); /* Asegura que esté centrado exactamente */
   font-family: "Arial Narrow", Arial, sans-serif;
-  color: yellow;
+  color: red;
   position: absolute;
   font-weight: bold;
   letter-spacing: 10px;
